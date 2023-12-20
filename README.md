@@ -1,6 +1,6 @@
 # Rock-Image-Analysis-and-Classification
 Rock Image Analysis and Classification USING DEEP LEARNING
-In this problem, you will use Rock dataset located here: https://osf.io/d6b9y/Links
+In this problem, you will use Rock dataset located here: https://osf.io/d6b9y/
 
 Apply PCA to the images from folder '360 Rocks'. How many components do you need to preserve 95% of the variance? 
 
